@@ -4,7 +4,7 @@ manufacturing-data-project/
 |
 ├── SQL/
 |   │
-|   ├── datos/                              # Raw datasets used for the project (csv files)
+|   ├── data/                              # Raw datasets used for the project (csv files)
 |   │
 |   ├── docs/                               # Project documentation and architecture details
 |   │   ├── data_catalog.md                 # Dataset catalog, including fiel and metadata descriptions
@@ -21,7 +21,7 @@ manufacturing-data-project/
 |   ├── manufacturing_dashboard.jpg          # Screenshot of the dashboard
 |   ├── manufacturing_dashboard.twbx         # Tableau workfile
 |   ├── manufacturing_data.csv               # Dataset used for visualization
-|   ├── historia_usuario.md                  # Final user requirements
+|   ├── user_requirements.md                 # Final user requirements
 |   └── README.md                            # Tableau project overview and link to the dashboard
 |
 │   
