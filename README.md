@@ -1,3 +1,5 @@
+## 📂 Repository Structure
+```
 manufacturing-data-project/
 |
 ├── SQL/
@@ -25,3 +27,4 @@ manufacturing-data-project/
 │   
 ├── README.md                               # Project overview and guidelines
 └── LICENSE                                 # License information for the repository
+```
