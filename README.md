@@ -4,7 +4,7 @@ manufacturing-data-project/
 |
 ├── SQL/
 |   │
-|   ├── data/                              # Raw datasets used for the project (csv files)
+|   ├── data/                               # Raw datasets used for the project (csv files)
 |   │
 |   ├── docs/                               # Project documentation and architecture details
 |   │   ├── data_catalog.md                 # Dataset catalog, including fiel and metadata descriptions
