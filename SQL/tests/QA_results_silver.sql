@@ -30,7 +30,7 @@ Usage Notes:
 
 
 -- ====================================================================
--- Checking 'gold.fact_sales'
+-- Checking 'gold.fact_production'
 -- ====================================================================
 -- Check the data model connectivity between fact and dimensions
 
