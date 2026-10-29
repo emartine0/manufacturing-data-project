@@ -43,7 +43,7 @@ SELECT DISTINCT
 FROM gold.dim_production
 ORDER BY 1,2 ASC
 
-/* OBSERVATION: It can be produced different product types for each production shift */
+/* OBSERVATION: It can be produced different product-types for each production shift */
 
 SELECT DISTINCT
 	machine_id,
