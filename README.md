@@ -24,6 +24,11 @@ manufacturing-data-project/
 |   ├── user_requirements.md                 # Final user requirements
 |   └── README.md                            # Tableau project overview and link to the dashboard
 |
+├── Python/
+|   ├── manufacturing_data.csv               # Dataset used for analysis
+|   ├── requirements.txt                     # Required libraries to install
+|   ├── inferential_estatistics.ipynb        # Inferential analysis
+|   └── README.md                            # Tableau project overview and link to the dashboard
 │   
 ├── README.md                               # Project overview and guidelines
 └── LICENSE                                 # License information for the repository
